@@ -1,0 +1,7 @@
+// Shared utilities for NeuroSwarm
+
+export function helloWorld(): string {
+  return "Hello from NeuroSwarm shared!";
+}
+
+// Add more shared functions here
