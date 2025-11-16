@@ -7,3 +7,4 @@ export function helloWorld(): string {
 // Add more shared functions here
 
 export * from './pda';
+export * from './schemas/ChatMessage';
